@@ -1,3 +1,5 @@
+package BackTracking;
+
 import java.util.Scanner;
 
 public class Ex_1182 {
